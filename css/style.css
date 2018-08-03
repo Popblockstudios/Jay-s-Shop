@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+body {
+  background-image: url("http://res.cloudinary.com/dunfjevuj/image/upload/e_blur:100/e_contrast:-75/e_brightness:-50/e_contrast:-75/e_brightness:-50/v1524268629/43f6e96e380e962457ece50b229c8e0c.jpg");
+  background-repeat: no-repeat;
+  background-size:100%;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.navbar {
+  position: fixed;
+  top:0;
+  left: 0;
+  right: 0;
+  background-color: #ffffcc;
+  width: 100%;
+  padding: 0% 0% 1% 0%;
+}
+
+.Savoy {
+  font-size: 40px;
+  text-decoration: none;
+  color: black;
+  margin: 0% 0% 0% 2%;
+  font-family: Dancing Script;
+  float: left;
+  background-color: #ffffcc;
+  border-style: hidden;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  font-family: Dancing Script;
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+  margin: 0% 0% 0% 0%;
+  border-style: hidden;
+  background-color:#ffffcc;
+  cursor: pointer;
+  padding: 0%;
+}
+
+.Portfolio {
+  font-family: Dancing Script;
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+  float: right;
+  margin: 0% 2% 0% 0%;
+  border-style: hidden;
+  background-color:#ffffcc;
+  cursor: pointer;
+}
+
+.Contact {
+  font-family: Dancing Script;
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+  float: right;
+  margin: 0% 2% 0% 0%;
+  border-style: hidden;
+  background-color:#ffffcc;
+  cursor: pointer;
+  
+}
+
+.Services {
+  font-family: Dancing Script;
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+  float: right;
+  margin: 0% 2% 0% 0%;
+  border-style: hidden;
+  background-color:#ffffcc;
+  cursor: pointer;
+}
+
+.button {
+  background: transparent;
+  color: #66ffff;
+  font-family: Dancing Script;
+  border-color: #66ffff;
+  border-width: thick;
+  text-align: center;
+  font-size: 50px;
+  cursor: pointer;
+  margin: 18% 0% 0% 0%;
+  padding: 1%;
+}
+
+.Savoy:hover {
+  transition: 0.25s ease-in,out;
+  text-decoration: none;
+  color: purple;
+  border-color: purple;
+  border-width: thick;
+  border-style: solid;
+}
+
+.Services:hover {
+  transition: 0.25s ease-in,out;
+  text-decoration: none;
+  color: purple;
+  border-color: purple;
+  border-width: thick;
+  border-style: solid;
+}
+
+.Contact:hover {
+  transition: 0.25s ease-in,out;
+  text-decoration: none;
+  color: purple;
+  border-color: purple;
+  border-width: thick;
+  border-style: solid;
+}
+
+.Portfolio:hover {
+  transition: 0.25s ease-in,out;
+  text-decoration: none;
+  color: purple;
+  border-color: purple;
+  border-width: thick;
+  border-style: solid;
+}
+
+.button:hover {
+  transition: 0.5s ease-in,out;
+  border-color:  #ff3399;
+  color:  #ff3399;
+  
+  }
+
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
